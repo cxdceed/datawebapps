@@ -4,6 +4,6 @@ ipyvizzu
 streamlit
 langchain
 openai
-chroma
+chromadb==0.3.29
 tiktoken
 sqlite3 >= 3.35.0.
