@@ -1,4 +1,9 @@
 streamlit
+pandas
+numpy
+ydata-profiling
+streamlit-pandas-profiling
+Jinja2
 langchain
 openai
 chromadb
